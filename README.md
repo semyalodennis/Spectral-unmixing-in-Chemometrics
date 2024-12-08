@@ -11,8 +11,8 @@ Spectral_unmixing_workshop-1.ipynb
 Spectral_unmixing_workshop-2.ipynb  
 -> This script demonstrates spectral unmixing with a custom dataset
 
-emulsion_imageM.csv
--> The oil emulsion dataset used in the demo
+emulsion_imageM.csv  
+-> The oil emulsion dataset used in the demo  
 
 # How to execute the scipts in the repo  
 Setup and installations  
