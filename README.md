@@ -36,7 +36,7 @@ scipy
 matplotlib  
 • pip install matplotlib
 
-6. Verify Installation  
+4. Verify Installation  
 import pymcr  
 print(pymcr.__version__)  
 
