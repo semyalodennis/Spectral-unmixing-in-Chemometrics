@@ -31,15 +31,12 @@ pip3 install pyMCR
 3. Install additional libraries (Dependencies)  
 numpy  
 • pip install numpy  
-
 scipy  
 • pip install scipy  
-
 matplotlib  
-• pip install matplotlib  
+• pip install matplotlib
 
 6. Verify Installation  
 import pymcr  
-
 print(pymcr.__version__)  
 
