@@ -15,31 +15,31 @@ emulsion_imageM.csv
 -> The oil emulsion dataset used in the demo
 
 # How to execute the scipts in the repo  
-Setup and installations
-1. Python version
-python >= 3.4
-• Tested with 3.12
+Setup and installations  
+1. Python version  
+python >= 3.4  
+• Tested with 3.12  
 
-2. Install pyMCR python library
-Using pip
-# Only Python 3.* installed
-pip install pyMCR
+2. Install pyMCR python library  
+Using pip  
+- Only Python 3.* installed  
+pip install pyMCR  
 
-# If you have both Python 2.* and 3.* you may need
-pip3 install pyMCR
+- If you have both Python 2.* and 3.* you may need  
+pip3 install pyMCR  
 
-3. Install additional libraries (Dependencies)
-numpy
-• pip install numpy
+3. Install additional libraries (Dependencies)  
+numpy  
+• pip install numpy  
 
-scipy
-• pip install scipy
+scipy  
+• pip install scipy  
 
-matplotlib
-• pip install matplotlib
+matplotlib  
+• pip install matplotlib  
 
-6. Verify Installation
-import pymcr
+6. Verify Installation  
+import pymcr  
 
-print(pymcr.__version__)
+print(pymcr.__version__)  
 
